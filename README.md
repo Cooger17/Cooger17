@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cooger17
 - 👀 I’m interested in how to create dynamic website, browser games and some project to developp my programming skills
-- 🌱 I’m currently learning html5, css, JavaScript, php and mySQL
+- 🌱 I’m currently learning html5, css, JavaScript
 - 💞️ I’m looking to collaborate on every kind of project 
 - 📫 How to reach me you can DM me on discord cooger#4122
 
